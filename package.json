@@ -1,10 +1,10 @@
 {
   "name": "s3-deleter",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Empty and delete multiple S3 buckets",
+  "main": "s3.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node s3.js"
   },
   "keywords": [],
   "author": "",
