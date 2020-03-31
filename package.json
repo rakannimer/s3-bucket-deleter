@@ -6,9 +6,6 @@
   "scripts": {
     "start": "node s3.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.649.0",
     "enquirer": "^2.3.4"
