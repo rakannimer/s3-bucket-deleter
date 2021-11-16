@@ -7,7 +7,7 @@
     "start": "node s3.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.649.0",
+    "aws-sdk": "^2.814.0",
     "enquirer": "^2.3.4"
   }
 }
